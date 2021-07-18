@@ -20,7 +20,7 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 | Nelson Zeng | ***REMOVED*** | Unit tests and Repository | 15    | 
 | Mehdi Ammar | ***REMOVED*** | UML Model and Tests | 14    |
 | Mert Gurkan | ***REMOVED*** | Documentation and Tests | 12    |
-| Tian Ci Liu | ***REMOVED*** | UML Model and Tests | 17    | XX    |
+| Tian Ci Liu | ***REMOVED*** | UML Model and Tests | 17    |
 
 ### Sprint 2
 
