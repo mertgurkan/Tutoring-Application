@@ -19,7 +19,7 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 | Steven Luu  | ***REMOVED*** | Documentation and Model | 14    | 
 | Nelson Zeng | ***REMOVED*** | Unit tests and Repository | 15    | 
 | Mehdi Ammar | ***REMOVED*** | UML Model and Tests | 14    |
-| Mert Gurkan | ***REMOVED*** | Documentation and Tests | 12    |
+| Mert Gurkan | ***REMOVED*** | Documentation and Tests | 16    |
 | Tian Ci Liu | ***REMOVED*** | UML Model and Tests | 17    |
 
 ### Sprint 2
@@ -39,7 +39,7 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 | Steven Luu  | ***REMOVED*** | Notification and Login Frontend Implementation                  |   26    | 
 | Nelson Zeng | ***REMOVED*** | Schedule and View Request Frontend Implementation               |   23    |
 | Mehdi Ammar | ***REMOVED*** | Welcome Screen, Application Form and Review Frontend Implementation       |   24    | 
-| Mert Gurkan | ***REMOVED*** | Architecture Modelling and Documentation                  |   19    |
+| Mert Gurkan | ***REMOVED*** | Architecture Modelling and Documentation                  |   26    |
 | Tian Ci Liu | ***REMOVED*** | Tutor Wages and Settings Frontend Implementation and Backend fixes                  |   27    |
 
 ### Sprint 4
@@ -49,7 +49,7 @@ Tools that were used include: Eclipse, Spring Boot, Gradle, UML Lab, Heroku, Dra
 | Steven Luu  | ***REMOVED*** | Notification implementation and Documentation                  | 15      | 
 | Nelson Zeng | ***REMOVED*** | Schedule android implementation                  | 13      |
 | Mehdi Ammar | ***REMOVED*** | View Review android implementation                 | 16      | 
-| Mert Gurkan | ***REMOVED*** | User Documentation, website and Android                  | 11      |
+| Mert Gurkan | ***REMOVED*** | User Documentation, website and Android                  | 16      |
 | Tian Ci Liu | ***REMOVED*** | Login, Settings, Wage android implementation                 | 15      | 
 
 
